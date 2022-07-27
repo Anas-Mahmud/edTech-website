@@ -1,6 +1,9 @@
-.img-opacity{
-    opacity: .5;
+.button-color{
+    background: #289BDE;
 }
 .text-position{
     margin-bottom: 15%;
+}
+.price-color{
+    color: #289BDE;
 }
